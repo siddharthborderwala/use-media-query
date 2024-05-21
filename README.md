@@ -1,13 +1,13 @@
-# use-media-query
+# use-media-query-react
 
 A simple and efficient React hook for matching media queries.
 
 ## Installation
 
-To install the `use-media-query` package, you can use either npm/yarn/pnpm/bun:
+To install the `use-media-query-react` package, you can use either npm/yarn/pnpm/bun:
 
 ```bash
-pnpm install use-media-query
+pnpm install use-media-query-react
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ pnpm install use-media-query
 Here's a basic example of how to use the `useMediaQuery` hook:
 
 ```jsx
-import { useMediaQuery } from 'use-media-query'
+import { useMediaQuery } from 'use-media-query-react'
 
 const MyComponent = () => {
   const isMobile = useMediaQuery('(max-width: 768px)')
