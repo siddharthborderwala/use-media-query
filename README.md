@@ -54,7 +54,7 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-If you have any questions, feel free to [raise an issue](https://github.com/siddharthborderwala/use-media-query/issues/new).
+If you have any questions, feel free to [raise an issue](https://github.com/siddharthborderwala/use-media-query-react/issues/new).
 
 ---
 
