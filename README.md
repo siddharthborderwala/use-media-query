@@ -58,4 +58,4 @@ If you have any questions, feel free to [raise an issue](https://github.com/sidd
 
 ---
 
-That's it! You're ready to start using `use-media-query` in your React project. Enjoy!
+That's it! You're ready to start using `use-media-query-react` in your React project. Enjoy!
