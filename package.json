@@ -1,7 +1,7 @@
 {
   "name": "use-media-query-react",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "license": "MIT",
   "author": {
@@ -10,14 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/siddharthborderwala/use-media-query"
+    "url": "https://github.com/siddharthborderwala/use-media-query-react"
   },
   "keywords": [
     "react",
+    "react hook",
     "hook",
-    "media-query",
+    "media query",
     "responsive",
-    "use-media-query"
+    "use media query",
+    "react media query",
+    "breakpoint",
+    "orientation",
+    "resolution"
   ],
   "source": "src/index.ts",
   "main": "dist/use-media-query.cjs",
